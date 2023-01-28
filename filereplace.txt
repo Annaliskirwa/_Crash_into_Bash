@@ -1,0 +1,5 @@
+image:
+  repository: 192.168.131.71:8443/bpr-release-images/bpr-notification-processor
+  pullPolicy: IfNotPresent
+  # Overrides the image tag whose default is the chart appVersion.
+  tag: "20221217.2"

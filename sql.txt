@@ -1,0 +1,9 @@
+--------------------------------------------------------
+--  File created - Wednesday-December-21-2022   
+--------------------------------------------------------
+
+Insert into BPR_AIRTEL_TRUST_AC_AGENTS (ID,AGENT_NAME,AGENT_PHONE_NUMBER,STATUS,MIN_FLOAT_AMOUNT,CREATED_ON) values (1,'Agent Annalis','0703xxxxxx','active','5000',null);
+--------------------------------------------------------
+--  DDL for Index BPR_AIRTEL_TRUST_AC_AGENTS_PK
+--------------------------------------------------------
+

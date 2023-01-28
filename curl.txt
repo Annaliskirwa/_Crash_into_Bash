@@ -1,0 +1,22 @@
+HTTP/2 200 
+vary: Accept-Encoding
+accept-ch-lifetime: 4838400
+accept-ch: sec-ch-prefers-color-scheme
+reporting-endpoints: default="https://www.instagram.com/error/ig_web_error_reports/?device_level=unknown"
+report-to: {"max_age":259200,"endpoints":[{"url":"https:\/\/www.instagram.com\/error\/ig_web_error_reports\/?device_level=unknown"}]}
+document-policy: force-load-at-top
+cross-origin-resource-policy: rollout
+cross-origin-opener-policy: same-origin-allow-popups
+pragma: no-cache
+cache-control: private, no-cache, no-store, must-revalidate
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+x-content-type-options: nosniff
+x-xss-protection: 0
+x-frame-options: DENY
+strict-transport-security: max-age=15552000
+content-type: text/html; charset="utf-8"
+x-fb-debug: k8+A07MPx1/jNxhu1Oc9F7i/1EDo/4U/N6u+QJFOOazmfKDxgKreK1+XIWATx7Rh+vBY9Nbh3bKcSsIC5QjCOA==
+date: Tue, 24 Jan 2023 13:07:47 GMT
+x-fb-trip-id: 1679558926
+alt-svc: h3=":443"; ma=86400
+
